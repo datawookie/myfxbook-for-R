@@ -1,10 +1,10 @@
 Package: myfxbook
 Type: Package
-Title: What the Package Does (Title Case)
+Title: myfxbook Interface for R
 Version: 0.1
 Date: 2015-09-12
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
+Author: Andrew B. Collier
+Maintainer: Andrew B. Collier <andrew@exegetic.biz>
 Description: More about what it does (maybe more than one line)
-License: What license is it under?
+License: GPL v2
 LazyData: TRUE

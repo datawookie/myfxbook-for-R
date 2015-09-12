@@ -1,5 +1,3 @@
-# Details of API are given at http://www.myfxbook.com/api
-#
 # Refer to web technologies task view on CRAN (http://cran.r-project.org/web/views/WebTechnologies.html)
 
 # Details of hooking up myfxbook to MetaTrader: http://www.myfxbook.com/help/connect-metatrader-publisher
