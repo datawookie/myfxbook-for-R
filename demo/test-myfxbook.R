@@ -5,13 +5,6 @@ library(plyr)
 
 library(myfxbook.R)
 
-# Credentials file should look something like this:
-#
-# {
-# "username" : "username@gmail.com",
-# "password" : "2ed2e628a257"
-# }
-#
 credentials = as.list(readJSONStream("../myfxbook-login.json"))
 
 fx <- myfxbook$new(email = credentials$username, password = credentials$password, debug = TRUE)
